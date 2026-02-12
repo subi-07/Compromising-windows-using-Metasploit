@@ -87,6 +87,7 @@ Bypass any warning boxes, double-click the file, and allow it to run.
 ## OUTPUT:
 <img width="713" height="635" alt="Screenshot 2026-02-11 094329" src="https://github.com/user-attachments/assets/88123881-e145-48a9-b990-5ae7a2be506a" />
 
+![9show](https://github.com/user-attachments/assets/8a60e1e0-626d-4d52-a331-18887ba75425)
 
 
 On kali/parrot give the command exploit
